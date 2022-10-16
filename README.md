@@ -1,1 +1,3 @@
-# FutureStarIOT
+#!/bin/bash
+
+#ls home/runner

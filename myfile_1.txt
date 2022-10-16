@@ -1,0 +1,10 @@
+#ls home/runner '''пункт 1'''
+
+echo hostname  '''пункт 2'''
+echo $USER
+echo ./myfile_1.txt
+echo uname -a
+
+ls /sbin  '''пункт 3'''
+ls -l
+ls -ls
